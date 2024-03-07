@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "lesson": "Somo",
+    "results": "Matokeo",
+    "mistakes": "Makosa"
+  },
+  "lesson": {
+    "title": "Soma sentensi",
+    "content": "J'aime vraiment voyager avec mes amis"
+  },
+  "music": {
+    "cardTitle": "MUZIKI",
+    "cardContent": "Gundua msamiati tele wa aina za muziki, ala na furaha ya kujieleza."
+  },
+  "travelling": {
+    "cardTitle": "KUSAFIRI",
+    "cardContent": "Sogeza safari zako kwa ujasiri, ukigundua tamaduni mpya na maeneo ya kupendeza bila vizuizi vyovyote vya lugha."
+  },
+  "food": {
+    "cardTitle": "CHAKULA",
+    "cardContent": "Jifunze jinsi ya kuchagua kwa ujasiri vyakula unavyopenda kwenye mkahawa na uwasilishe mapendeleo yako kwa urahisi."
+  },
+  "shopping": {
+    "cardTitle": "MANUNUZI",
+    "cardContent": "Nunua na uwasilishe mahitaji yako bila vizuizi vyovyote vya lugha vinavyozuia matumizi yako."
+  }
+}

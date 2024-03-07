@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "lesson": "Lesson",
+    "results": "Results",
+    "mistakes": "Mistakes"
+  },
+  "lesson": {
+    "title": "Read the sentence",
+    "content": "J'aime vraiment voyager avec mes amis"
+  },
+  "music": {
+    "cardTitle": "MUSIC",
+    "cardContent": "Discover the rich vocabulary of musical genres, instruments, and the joy of expressing yourself"
+  },
+  "travelling": {
+    "cardTitle": "TRAVELLING",
+    "cardContent": "Confidently navigate your travels, exploring new cultures and exciting destinations without any language obstacles."
+  },
+  "food": {
+    "cardTitle": "FOOD",
+    "cardContent": "Learn how to confidently choose your favorite dishes at cafe and communicate your preferences with ease."
+  },
+  "shopping": {
+    "cardTitle": "SHOPPING",
+    "cardContent": "Effortlessly shop and communicate your needs without any language barriers hindering your experience."
+  }
+}

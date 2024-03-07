@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "lesson": "Lección",
+    "results": "Resultados",
+    "mistakes": "Errores"
+  },
+  "lesson": {
+    "title": "Lee la oración",
+    "content": "J'aime vraiment voyager avec mes amis"
+  },
+  "music": {
+    "cardTitle": "MÚSICA",
+    "cardContent": "Descubre el rico vocabulario de géneros musicales, instrumentos y el placer de expresarte."
+  },
+  "travelling": {
+    "cardTitle": "DE VIAJE",
+    "cardContent": "Navegue con confianza en sus viajes, explorando nuevas culturas y destinos emocionantes sin ningún obstáculo idiomático."
+  },
+  "food": {
+    "cardTitle": "ALIMENTO",
+    "cardContent": "Aprenda a elegir con confianza sus platos favoritos en la cafetería y comunicar sus preferencias con facilidad."
+  },
+  "shopping": {
+    "cardTitle": "COMPRAS",
+    "cardContent": "Compre y comunique sus necesidades sin esfuerzo y sin barreras idiomáticas que obstaculicen su experiencia."
+  }
+}

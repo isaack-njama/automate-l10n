@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "lesson": "leçon",
+    "results": "résultats",
+    "mistakes": "erreurs"
+  },
+  "lesson": {
+    "title": "Lisez la phrase",
+    "content": "J'aime vraiment voyager avec mes amis"
+  },
+  "music": {
+    "cardTitle": "MUSIQUE",
+    "cardContent": "Découvrez le riche vocabulaire des genres musicaux, des instruments et la joie de vous exprimer."
+  },
+  "travelling": {
+    "cardTitle": "EN VOYAGEANT",
+    "cardContent": "Naviguez en toute confiance dans vos voyages, explorez de nouvelles cultures et des destinations passionnantes sans aucun obstacle linguistique."
+  },
+  "food": {
+    "cardTitle": "NOURRITURE",
+    "cardContent": "Apprenez à choisir en toute confiance vos plats préférés au café et à communiquer facilement vos préférences."
+  },
+  "shopping": {
+    "cardTitle": "ACHATS",
+    "cardContent": "Achetez et communiquez sans effort vos besoins sans qu'aucune barrière linguistique n'entrave votre expérience."
+  }
+}
