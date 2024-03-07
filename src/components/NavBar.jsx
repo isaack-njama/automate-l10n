@@ -10,8 +10,11 @@ import {
   Spacer,
   Text,
 } from '@chakra-ui/react';
+import { useTranslation } from 'react-i18next';
 
 export const NavBar = () => {
+  const { t } = useTranslation();
+
   return (
     <>
       <Flex
@@ -29,9 +32,9 @@ export const NavBar = () => {
         </Box>
         <Spacer />
         <Center gap='6'>
-          <Text>Lesson</Text>
-          <Text>Results</Text>
-          <Text>Mistakes</Text>
+          <Text>{t('nav.lesson')}</Text>
+          <Text>{t('nav.results')}</Text>
+          <Text>{t('nav.mistakes')}</Text>
         </Center>
         <Spacer />
         <ButtonGroup>
