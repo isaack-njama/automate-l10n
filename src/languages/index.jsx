@@ -1,6 +1,6 @@
-import en from './en.json';
-import es from './es.json';
-import sw from './sw.json';
+import en from './en/translation.json';
+import es from './es/translation.json';
+import sw from './sw/translation.json';
 
 export const languages = [
   {
