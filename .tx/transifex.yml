@@ -1,0 +1,9 @@
+git:
+  filters:
+    - filter_type: file
+      file_format: KEYVALUEJSON
+      source_file: src/languages/en.json
+      source_language: en
+      translation_files_expression: src/languages/<lang>/translation.json
+  settings:
+    pr_branch_name: tx_translations_<br_unique_id>
