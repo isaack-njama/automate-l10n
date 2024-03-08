@@ -2,7 +2,7 @@ git:
   filters:
     - filter_type: file
       file_format: KEYVALUEJSON
-      source_file: src/languages/en.json
+      source_file: src/languages/en/translation.json
       source_language: en
       translation_files_expression: src/languages/<lang>/translation.json
   settings:
