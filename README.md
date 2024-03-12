@@ -10,7 +10,7 @@
 
 ## Installation
 
-To install and run [Project Name] locally, follow these steps:
+To install and run the project locally, follow these steps:
 
 1. Clone the repository:
 
